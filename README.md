@@ -2,4 +2,4 @@
 
 Hello Everyone
 
-Harsh herer!  I am expolring GitHub!!
+Harsh here!  I am expolring GitHub!!
